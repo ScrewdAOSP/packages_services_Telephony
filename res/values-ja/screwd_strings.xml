@@ -16,7 +16,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">フリップアクション</string>
   <!-- Dialog title of the flip action setting. -->
+  <string name="flip_action_dialog_title">デバイスをフリップすると\u2026</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary">デバイスをフリップダウンで<xliff:g id="action">%s</xliff:g></string>
   <!-- Values for flip action array entries -->
+  <string name="entry_do_nothing">何もしない</string>
+  <string name="entry_mute_ringer">着信音をミュート</string>
+  <string name="entry_dismiss_call">着信を拒否</string>
+  <string name="summary_do_nothing">何もしない</string>
+  <string name="summary_mute_ringer">着信音をミュートする</string>
+  <string name="summary_dismiss_call">着信を拒否する</string>
 </resources>
