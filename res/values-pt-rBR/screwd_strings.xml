@@ -16,7 +16,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Ação de virar</string>
   <!-- Dialog title of the flip action setting. -->
+  <string name="flip_action_dialog_title">Virar o dispositivo para\u2026</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary">Virar o telefone para baixo vai <xliff:g id="action">%s</xliff:g></string>
   <!-- Values for flip action array entries -->
+  <string name="entry_do_nothing">Fazer nada</string>
+  <string name="entry_mute_ringer">Silenciar o toque</string>
+  <string name="entry_dismiss_call">Rejeitar chamada</string>
+  <string name="summary_do_nothing">não fazer nada</string>
+  <string name="summary_mute_ringer">silenciar a campainha</string>
+  <string name="summary_dismiss_call">rejeita a chamada</string>
 </resources>
